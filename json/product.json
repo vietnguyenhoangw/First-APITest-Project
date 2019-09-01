@@ -1,0 +1,9 @@
+{
+  "name": "iphone",
+  "quantity" : 30,
+  "inStock": true,
+  "company": {
+    "company_name" : "apple",
+    "company_address": "LA"
+  }
+}
