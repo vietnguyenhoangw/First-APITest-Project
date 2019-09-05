@@ -1,5 +1,6 @@
 # First project API test
 First project API test using Python Flask module, json datatabse file.
+##### GET, PUT, POST, DELETE method
 
 #### :wrench: Install package on ubuntu
 - (python 2 available)
